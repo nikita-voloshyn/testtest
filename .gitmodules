@@ -1,0 +1,6 @@
+[submodule "MyProjects"]
+	path = MyProjects
+	url = https://github.com/nikita-voloshyn/MyProjects.git
+[submodule "voloshyn_front_end_14_11"]
+	path = voloshyn_front_end_14_11
+	url = https://github.com/nikita-voloshyn/voloshyn_front_end_14_11.git
